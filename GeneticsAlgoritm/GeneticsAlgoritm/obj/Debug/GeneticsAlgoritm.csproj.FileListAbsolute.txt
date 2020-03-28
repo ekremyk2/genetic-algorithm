@@ -1,0 +1,9 @@
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\bin\Debug\GeneticsAlgoritm.exe.config
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\bin\Debug\GeneticsAlgoritm.exe
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\bin\Debug\GeneticsAlgoritm.pdb
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.csprojAssemblyReference.cache
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.FormGeneticAlgorithm.resources
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.Properties.Resources.resources
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.csproj.GenerateResource.cache
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.exe
+C:\Users\EkremPC\source\repos\GeneticsAlgoritm\GeneticsAlgoritm\obj\Debug\GeneticsAlgoritm.pdb
